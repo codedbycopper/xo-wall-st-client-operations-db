@@ -157,11 +157,3 @@ Key relationships to diagram:
 - SQL queries spanning JOIN, CASE, COALESCE, DATE functions, aggregations, and subqueries
 - Translation of a business workflow into structured backend logic
 
----
-
-## Resume Description
-
-**PostgreSQL Client Operations Database**
-Designed and built a relational PostgreSQL database prototype for a virtual consulting business, including normalized tables for client records, lead tracking, service orders, payments, task management, and insurance application pipeline monitoring. Implemented ENUM types, primary and foreign keys, cascade rules, indexes, and three reporting views. Wrote twelve production-ready SQL queries for daily operations and financial reporting.
-
----
